@@ -17,7 +17,7 @@ Bootstrap
 
 ## Bugs
 
-* Contact links should render within jumbotron background.
+* No known issues.
 
 ## Contact Information
 JohnNils Olson - johnnils@gmail.com
