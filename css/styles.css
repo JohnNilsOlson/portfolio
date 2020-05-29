@@ -1,5 +1,15 @@
+.jumbotron {
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 p:first-child{
   font-weight: bold;
   font-size: 115%;
 }
 
+img {
+  float: right;
+  height: 200px;
+}
