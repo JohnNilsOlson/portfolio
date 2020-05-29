@@ -1,5 +1,8 @@
 .jumbotron {
   height: 200px;
+  margin-top: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 p:first-child{
@@ -10,6 +13,18 @@ p:first-child{
 img {
   float: right;
   height: 200px;
-  margin: 0px;
-  padding: 0px;
+  margin-top: 20px;
   }
+
+h3 {
+  background-color:#eeeeee;
+  padding: 5px;
+}
+
+.col {
+  border: 2px;
+}
+
+em {
+  font-weight: bold;
+}
