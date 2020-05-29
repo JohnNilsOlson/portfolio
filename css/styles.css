@@ -1,8 +1,7 @@
 .jumbotron {
   height: 200px;
   margin-top: 20px;
-  
-}
+  }
 
 p:first-child{
   font-weight: bold;
@@ -17,7 +16,6 @@ img {
 
 h1 {
   float: left;
-  margin-top: 0px;
   }
 
 h3 {
@@ -29,8 +27,9 @@ h3 {
 }
 
 h4 {
-  float: left;
-  margin-top: 2px;
+  float: right;
+  margin-top: 25px;
+  padding-right: 25px;
 }
 
 .col-border {
