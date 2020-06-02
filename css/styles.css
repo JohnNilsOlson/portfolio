@@ -8,6 +8,12 @@ p:first-child{
   font-size: 115%;
 }
 
+.head {
+  font-weight: bold;
+  font-size: 115%;
+  margin-left: 18px;
+}
+
 img {
   float: right;
   height: 200px;
