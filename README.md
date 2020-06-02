@@ -12,6 +12,10 @@ CSS
 Bootstrap
 
 ## Installation Instructions
+* Visit http://johnnilsolson.github.io/portfolio-landing-page  
+  
+  or  
+    
 * Clone repository at https://github.com/JohnNilsOlson/portfolio-landing-page.git
 * Open index.html with web browser of choice.
 
